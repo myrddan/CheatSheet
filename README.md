@@ -1,2 +1,7 @@
+
+---
 # CheatSheet
-Small JupiterNote book to healp you lean python
+
+---
+
+Small JupiterNoteBook to help you learn python.
